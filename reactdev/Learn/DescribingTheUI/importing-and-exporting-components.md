@@ -1,3 +1,10 @@
+- [Importing and Exporting Components](#importing-and-exporting-components)
+  - [The root component file](#the-root-component-file)
+  - [Exporting and importing a component](#exporting-and-importing-a-component)
+  - [DEEP DIVE Default vs named exports](#deep-dive-default-vs-named-exports)
+  - [Recap](#recap)
+  - [What I Learned](#what-i-learned)
+
 # Importing and Exporting Components
 
 컴포넌트의 마법은 다른 컴포넌트를 조합하여 재사용 가능한 새로운 컴포넌트를 만들 수 있다는 것입니다.
