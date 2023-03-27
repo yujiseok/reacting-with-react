@@ -1,3 +1,15 @@
+- [Writing Markup with JSX](#writing-markup-with-jsx)
+  - [JSX: Putting markup into JavaScript](#jsx-putting-markup-into-javascript)
+  - [Converting HTML to JSX](#converting-html-to-jsx)
+  - [The Rules of JSX](#the-rules-of-jsx)
+    - [1. Return a single root element](#1-return-a-single-root-element)
+    - [DEEP DIVE Why do multiple JSX tags need to be wrapped?](#deep-dive-why-do-multiple-jsx-tags-need-to-be-wrapped)
+    - [Close all the tags](#close-all-the-tags)
+    - [3. camelCase ~~all~~ most of the things!](#3-camelcase-all-most-of-the-things)
+    - [Pro-tip: Use a JSX Converter](#pro-tip-use-a-jsx-converter)
+  - [Recap](#recap)
+  - [What I Learned](#what-i-learned)
+
 # Writing Markup with JSX
 
 JSX는 JavaScript 내부에서 HTML스러운 마크업이 가능하게 해주는 문법입니다.
@@ -178,3 +190,12 @@ JSX는 자바스크립트로 변환되며, JSX의 속성들은 자바스크립�
 - 리액트 컴포넌트 그룹은 마크업과 렌더링이 서로 연관되어 있어 로직을 같이 수행합니다.
 - JSX는 HTML과 비슷하지만, 몇 가지 차이가 있습니다.
 - 에러 메시지는 마크업 에러를 집어줍니다.
+
+## What I Learned
+
+상호작용이 증대하여, 렌더링 로직과 마크업을 한곳에서 관리한다는 리액트의 철학이 정말 멋진 것 같다.
+
+JSX 문법을 사용하며, 여러 태그가 있으면 부모 태그로 감싸는 건 그냥 당연한 것이다 생각하고 왜?라는 의문은 없었는데, JSX가 자바스크립트 객체로 반환되어 감싸야 한다는 사실은 처음 알게 되었다.
+또 각각의 HTML, SVG 속성들이 객체의 키가 되는 것도 처음 알았다.
+
+역시 당연하게 사용하는 것보다 이유와 철학을 알면 리액트를 더 잘 이해할 수 있는 것 같다.
