@@ -12,5 +12,6 @@
 - [JavaScript in JSX with Curly Braces](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/DescribingTheUI/javascript-in-jsx-with-curly-braces.md)
 - [Passing Props to a Component](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/DescribingTheUI/passing-props-to-a-component.md)
 - [Conditional Rendering](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/DescribingTheUI/conditional-rendering.md)
+- [Rendering Lists](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/DescribingTheUI/rendering-lists.md)
 
 ---
