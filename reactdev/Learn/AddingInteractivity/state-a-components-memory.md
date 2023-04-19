@@ -1,3 +1,14 @@
+- [State: A Component's Memory](#state-a-components-memory)
+  - [When a regular variable isn’t enough](#when-a-regular-variable-isnt-enough)
+  - [Adding a state variable](#adding-a-state-variable)
+  - [Meet your first Hook](#meet-your-first-hook)
+  - [Anatomy of useState](#anatomy-of-usestate)
+  - [Giving a component multiple state variables](#giving-a-component-multiple-state-variables)
+  - [DEEP DIVE - How does React know which state to return?](#deep-dive---how-does-react-know-which-state-to-return)
+  - [State is isolated and private](#state-is-isolated-and-private)
+  - [Recap](#recap)
+  - [What I Learned](#what-i-learned)
+
 # State: A Component's Memory
 
 컴포넌트들은 인터렉션의 결과로 화면에 보여지는 것을 변화시킵니다. 입력을 통해 폼의 인풋 필드가 변하고 이미지 캐로셀의 다음을 눌렀을 때 어떤 이미지가 보일지 변화하고, 구매를 눌렀을 때 상품은 장바구니로 가야합니다.
