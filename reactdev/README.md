@@ -19,4 +19,5 @@
 
 ## Adding Interactivity
 
+- [Responding to Events](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/responding-to-events.md)
 - [State: A Component's Memory](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/state-a-components-memory.md)
