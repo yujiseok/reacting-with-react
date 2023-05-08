@@ -13,8 +13,6 @@
   - [Recap](#recap)
   - [What I Learned](#what-i-learned)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 # Responding to Events
 
 리액트는 JSX에 이벤트 핸들러를 추가할 수 있게 해줍니다.
