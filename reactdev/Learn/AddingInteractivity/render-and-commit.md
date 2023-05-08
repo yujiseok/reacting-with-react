@@ -122,3 +122,7 @@ function Image() {
 ## What I Learned
 
 이전 렌더링과 동일한 돔은 변경시키 않는 다는 것이 신기하다. 렌더와 커밋 단계를 식당에 비유한 예시 덕분에 쉽게 이해가 되었다.
+
+출처
+
+- https://react.dev/learn/render-and-commit
