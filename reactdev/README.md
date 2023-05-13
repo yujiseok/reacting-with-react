@@ -23,3 +23,4 @@
 - [State: A Component's Memory](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/state-a-components-memory.md)
 - [Render and Commit](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/render-and-commit.md)
 - [State as a Snapshot](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/state-as-a-snapshot.md)
+- [Queueing a Series of State Updates](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/queueing-a-series-of-state-updates.md)
