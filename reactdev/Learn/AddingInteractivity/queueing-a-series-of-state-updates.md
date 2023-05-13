@@ -1,3 +1,12 @@
+- [Queueing a Series of State Updates](#queueing-a-series-of-state-updates)
+  - [React batches state updates](#react-batches-state-updates)
+  - [Updating the same state multiple times before the next render](#updating-the-same-state-multiple-times-before-the-next-render)
+    - [What happens if you update state after replacing it](#what-happens-if-you-update-state-after-replacing-it)
+    - [What happens if you replace state after updating it](#what-happens-if-you-replace-state-after-updating-it)
+    - [Naming conventions](#naming-conventions)
+  - [Recap](#recap)
+  - [What I Learned](#what-i-learned)
+
 # Queueing a Series of State Updates
 
 상태 변수를 설정하는 것은 다른 랜더를 대기 시킵니다.
