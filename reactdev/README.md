@@ -26,4 +26,9 @@
 - [Queueing a Series of State Updates](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/queueing-a-series-of-state-updates.md)
 - [Updating Objects in State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/updating-objects-in-state.md)
 - [Updating Arrays in State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/updating-arrays-in-state.md)
-- [Reacting to Input with State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/reacting-to-input-with-state.md)
+
+---
+
+## Managing State
+
+- [Reacting to Input with State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/reacting-to-input-with-state.md)
