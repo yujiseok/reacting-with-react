@@ -32,3 +32,4 @@
 ## Managing State
 
 - [Reacting to Input with State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/reacting-to-input-with-state.md)
+- [Choosing the State Structure](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/choosing-the-state-structure.md)
