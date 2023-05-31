@@ -35,4 +35,4 @@
 - [Choosing the State Structure](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/choosing-the-state-structure.md)
 - [Sharing State Between Components](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/sharing-state-between-components.md)
 - [Preserving and Resetting State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/preserving-and-resetting-state.md)
-- [Preserving and Resetting State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/extracting-state-logic-into-a-reducer.md)
+- [Extracting State Logic into a Reducer](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/extracting-state-logic-into-a-reducer.md)
