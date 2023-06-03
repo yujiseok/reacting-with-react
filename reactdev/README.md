@@ -36,3 +36,4 @@
 - [Sharing State Between Components](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/sharing-state-between-components.md)
 - [Preserving and Resetting State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/preserving-and-resetting-state.md)
 - [Extracting State Logic into a Reducer](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/extracting-state-logic-into-a-reducer.md)
+- [Passing Data Deeply with Context](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/passing-data-deeply-with-context.md)
