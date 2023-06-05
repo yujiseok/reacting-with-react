@@ -40,5 +40,6 @@
 ## Escape Hatches
 
 - [Referencing Values with Refs](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/referencing-values-with-refs.md)
-- [Manipulating the DOM with Refs
-  ](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/manipulating-the-dom-with-refs.md)
+- [Manipulating the DOM with Refs](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/manipulating-the-dom-with-refs.md)
+- [Synchronizing with Effects](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/synchronizing-with-effects.md)
+- [You Might Not Need an Effect](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/you-might-not-need-an-effect.md)
