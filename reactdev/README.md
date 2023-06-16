@@ -44,3 +44,4 @@
 - [Synchronizing with Effects](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/synchronizing-with-effects.md)
 - [You Might Not Need an Effect](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/you-might-not-need-an-effect.md)
 - [Lifecycle of Reactive Effects](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/lifecycle-of-reactive-effects.md)
+- [Separating Events from Effects](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/separating-events-from-effects.md)
