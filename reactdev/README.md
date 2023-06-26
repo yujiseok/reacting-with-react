@@ -47,3 +47,9 @@
 - [Separating Events from Effects](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/separating-events-from-effects.md)
 - [Removing Effect Dependencies](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/removing-effect-dependencies.md)
 - [Reusing Logic with Custom Hooks](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/reusing-logic-with-custom-hooks.md)
+
+## Reference
+
+### Hooks
+
+- [useState](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useState.md)
