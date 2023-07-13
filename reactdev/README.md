@@ -68,3 +68,4 @@
 ## Components
 
 - [Fragment](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Components/Fragment.md)
+- [Suspense](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Components/Suspense.md)
