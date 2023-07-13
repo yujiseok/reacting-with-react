@@ -10,7 +10,7 @@
 
 - [Thinking in React](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/thinking-in-react.md)
 
-##### Describing the UI
+#### Describing the UI
 
 - [Your First Component](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/DescribingTheUI/your-first-component.md)
 - [Importing and Exporting Components](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/DescribingTheUI/importing-and-exporting-components.md)
@@ -21,7 +21,7 @@
 - [Rendering Lists](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/DescribingTheUI/rendering-lists.md)
 - [Keeping Components Pure](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/DescribingTheUI/keeping-components-pure.md)
 
-##### Adding Interactivity
+#### Adding Interactivity
 
 - [Responding to Events](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/responding-to-events.md)
 - [State: A Component's Memory](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/state-a-components-memory.md)
@@ -31,7 +31,7 @@
 - [Updating Objects in State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/updating-objects-in-state.md)
 - [Updating Arrays in State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/updating-arrays-in-state.md)
 
-##### Managing State
+#### Managing State
 
 - [Reacting to Input with State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/reacting-to-input-with-state.md)
 - [Choosing the State Structure](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/choosing-the-state-structure.md)
@@ -41,7 +41,7 @@
 - [Passing Data Deeply with Context](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/passing-data-deeply-with-context.md)
 - [Scaling Up with Reducer and Context](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/scaling-up-with-reducer-and-context.md)
 
-##### Escape Hatches
+#### Escape Hatches
 
 - [Referencing Values with Refs](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/referencing-values-with-refs.md)
 - [Manipulating the DOM with Refs](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/EscapeHatches/manipulating-the-dom-with-refs.md)
@@ -56,7 +56,7 @@
 
 ### Reference
 
-##### Hooks
+#### Hooks
 
 - [useState](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useState.md)
 - [useEffect](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useEffect.md)
@@ -69,6 +69,7 @@
 - [useTransition](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useTransition.md)
 - [useDeferredValue](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useDeferredValue.md)
 - [useId](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useId.md)
+- [useImperativeHandle](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useImperativeHandle.md)
 
 ---
 

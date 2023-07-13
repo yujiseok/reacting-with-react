@@ -25,8 +25,6 @@
 - [Updating Objects in State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/updating-objects-in-state.md)
 - [Updating Arrays in State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/AddingInteractivity/updating-arrays-in-state.md)
 
----
-
 ## Managing State
 
 - [Reacting to Input with State](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Learn/ManagingState/reacting-to-input-with-state.md)
@@ -50,9 +48,9 @@
 
 ---
 
-## Reference
+# Reference
 
-### Hooks
+## Hooks
 
 - [useState](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useState.md)
 - [useEffect](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useEffect.md)
@@ -65,3 +63,4 @@
 - [useTransition](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useTransition.md)
 - [useDeferredValue](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useDeferredValue.md)
 - [useId](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useId.md)
+- [useImperativeHandle](https://github.com/yujiseok/reacting-with-react/blob/main/reactdev/Reference/Hooks/useImperativeHandle.md)
